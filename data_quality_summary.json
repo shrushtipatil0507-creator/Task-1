@@ -1,0 +1,35 @@
+{
+  "shape_before": [
+    10194,
+    21
+  ],
+  "null_summary": {
+    "row_id": 0,
+    "order_id": 0,
+    "order_date": 0,
+    "ship_date": 0,
+    "ship_mode": 0,
+    "customer_id": 0,
+    "customer_name": 0,
+    "segment": 0,
+    "country_region": 0,
+    "city": 0,
+    "state_province": 0,
+    "postal_code": 200,
+    "region": 0,
+    "product_id": 0,
+    "category": 0,
+    "sub_category": 0,
+    "product_name": 0,
+    "sales": 0,
+    "quantity": 0,
+    "discount": 0,
+    "profit": 0
+  },
+  "duplicates_removed": 0,
+  "sales_outliers": 1183,
+  "shape_after": [
+    10194,
+    24
+  ]
+}
